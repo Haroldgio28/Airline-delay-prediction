@@ -15,7 +15,7 @@ with open(input_file, 'rb') as f_in:
     dv, pca, model = pickle.load(f_in)
 
 
-app = Flask('churn')
+app = Flask('delay')
 
 @app.route('/predict', methods=['POST'])
 def predict():
