@@ -8,6 +8,8 @@ Through the use of historical data, PredictUSFlights serves as a crucial decisio
 
 This project is for stakeholders in the aviation sector looking for a technical edge, data scientists interested in practical applications of machine learning, and software developers aiming to contribute to the next wave of travel technology. Join us in shaping the future of flight travel where on-time performance is not just a goal but a standard.
 
+The model has an **accuracy of 66% and an area under curve of 0.72.**
+
 This project is part of the Mid-term Project for [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
 
 
